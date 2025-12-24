@@ -1,43 +1,39 @@
-<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
-<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
+# Hi 👋, I'm vitalpulse
 
+****
 
-<details>
-<summary>more</summary>
-<table width="2000">
-<tr>
-<td width="2000"><img align="center" width="100%" alt="🦑" src="/bigass.svg"></td>
-</tr>
-</table>
-<img align="left" width="50%" alt="🦑" src="/anilist.svg">
-<img align="right" width="45%" alt="🦑" src="/pagespeed.svg">
+## 👀 Visitor Count
 
-<img align="left" width="45%" alt="🦑" src="/isocalendar.svg">
-<img align="right" width="45%" alt="🦑" src="/lines.svg">
-<img align="right" width="45%" alt="🦑" src="/icons.svg">
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/vitalpulse/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
 
-<img align="left" width="50%" alt="🦑" src="/achievements.svg">
-<img align="right" width="45%" alt="🦑" src="/stars.svg"> -->
+## 🏆 GitHub Trophies
 
-<table>
-<tr>
-<td><img align="" width="" alt="🦑" src="/bottom.svg"></td>
-<td><img align="" width="" height="" alt="🦑" src="https://github.com/user-attachments/assets/d2ca70f6-8b14-4147-b7eb-ed31f1900b54"></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vitalpulse&theme=flat&column=7&margin-w=15&margin-h=15" />
+</p>
 
-<!-- <img width="100%" alt="🦑" src="/IMG_4568.jpg"> -->
-<table width="2000">
-<tr>
-<td width="2000"><img src="https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
-<!-- <td>![](https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
-</tr>
-</table>
+## 💻 Tech Stack
 
-<!-- <table>
-<tr>
-<td><img src="https://s01.flagcounter.com/count/IK7Q/bg_000000/txt_FFFFFF/border_FFFFFF/columns_9/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></td>
-</tr>
-</table> -->
+### ⚙️ Backend
 
-</details>
+<img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> 
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-FFA500?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/C++-FFA500?style=for-the-badge&logo=c++&logoColor=white" /> <img src="https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white" /> 
+
+### 📱 Mobile
+
+<img src="https://img.shields.io/badge/Android-3CB371?style=for-the-badge&logo=android&logoColor=white" /> 
+
+---
+⭐️ From [vitalpulse](https://github.com/)
+
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" alt="Visitor Count" />
+</div>
