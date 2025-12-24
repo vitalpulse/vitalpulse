@@ -1,7 +1,9 @@
 <div align="center">
   <img height="180em" src="https://avatars.githubusercontent.com/u/76597629?v=4"/>
+</div>
+<p></p>
 
-<div>
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
