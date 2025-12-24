@@ -1,28 +1,14 @@
 <div align="center">
-
-# 🌟 Welcome to vitalpulse's Profile 🌟
-
-<p><em>Building the future through code</em></p>
-
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
-
-</div>
-
-<hr>
-
 ## 🏆 GitHub Trophies
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vitalpulse&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitalpulse&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitalpulse&theme=default&show_icons=true&hide_border=true&count_private=true"/>
 </div>
 
 ## 💻 Tech Stack
