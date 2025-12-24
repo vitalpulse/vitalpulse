@@ -1,30 +1,43 @@
-<h1 align="center"></h1>
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
 
-###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=pr" height="60" alt="adobepremierepro logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="adobephotoshop logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ae" height="60" alt="adobeaftereffects logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-</div>
+<details>
+<summary>more</summary>
+<table width="2000">
+<tr>
+<td width="2000"><img align="center" width="100%" alt="🦑" src="/bigass.svg"></td>
+</tr>
+</table>
+<img align="left" width="50%" alt="🦑" src="/anilist.svg">
+<img align="right" width="45%" alt="🦑" src="/pagespeed.svg">
 
-###
+<img align="left" width="45%" alt="🦑" src="/isocalendar.svg">
+<img align="right" width="45%" alt="🦑" src="/lines.svg">
+<img align="right" width="45%" alt="🦑" src="/icons.svg">
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="bluesky logo"  />
-</div>
+<img align="left" width="50%" alt="🦑" src="/achievements.svg">
+<img align="right" width="45%" alt="🦑" src="/stars.svg"> -->
 
-###
+<table>
+<tr>
+<td><img align="" width="" alt="🦑" src="/bottom.svg"></td>
+<td><img align="" width="" height="" alt="🦑" src="https://github.com/user-attachments/assets/d2ca70f6-8b14-4147-b7eb-ed31f1900b54"></td>
+</tr>
+</table>
+
+<!-- <img width="100%" alt="🦑" src="/IMG_4568.jpg"> -->
+<table width="2000">
+<tr>
+<td width="2000"><img src="https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
+<!-- <td>![](https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
+</tr>
+</table>
+
+<!-- <table>
+<tr>
+<td><img src="https://s01.flagcounter.com/count/IK7Q/bg_000000/txt_FFFFFF/border_FFFFFF/columns_9/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></td>
+</tr>
+</table> -->
+
+</details>
