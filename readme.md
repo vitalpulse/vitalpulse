@@ -49,6 +49,6 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vitalpulse&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=ff69b4" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/vitalpulse?style=for-the-badge&color=ff69b4" alt="Followers"/>
 
 </div>
